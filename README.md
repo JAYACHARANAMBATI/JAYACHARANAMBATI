@@ -59,11 +59,7 @@ Conversational AI that understands PDF documents with semantic search and MMR re
 **Gemini LLM | MySQL | SQLAlchemy**  
 Transform natural language questions into executable SQL queries with zero coding required.
 
-## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JAYACHARANAMBATI&theme=radical&border_radius=5&mode=weekly)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYACHARANAMBATI&layout=compact&theme=radical)
 
 ## 🌐 Connect With Me
 
