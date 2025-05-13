@@ -1,6 +1,5 @@
 # 🚀 AMBATI JAYA CHARAN - Portfolio
 
-![Profile Banner](https://github.com/JAYACHARANAMBATI/JAYACHARANAMBATI/blob/main/github-header-image.png) *[Add your banner image link above]*
 
 ## 👨‍💻 About Me
 
