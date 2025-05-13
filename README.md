@@ -7,7 +7,7 @@
 class Developer:
     def __init__(self):
         self.name = "Ambati Jaya Charan"
-        self.role = "AI/ML Engineer & Full Stack Developer"
+        self.role = "AI/ML Engineer & Frontend developer"
         self.passion = "Building intelligent applications that solve real-world problems"
         self.education = "B.Tech in Computer Science @ Kalasalingam Academy (CGPA: 8.01/10)"
         self.skills = {
