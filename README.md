@@ -31,34 +31,6 @@ me = Developer()
 - 💡 **Open Source Lead** at KARE Open-Source Society
 - 🤖 **Research Student** at Multicore Wave (Computer Vision & Robotics)
 
-## 🛠️ Featured Projects
-
-### 1. 🤖 [AI Resume Analyzer](https://github.com/JAYACHARANAMBATI/Resume)
-**Gemini 1.5 Pro | Streamlit | LangChain**  
-An intelligent resume matching system that analyzes and scores resumes against job descriptions using NLP.
-
-```bash
-⭐ Features:
-- PDF/DOCX/TXT parsing
-- Keyword extraction & match scoring
-- Strength/weakness analysis
-```
-
-### 2. 📚 [Enhanced PDF RAG Assistant](https://github.com/JAYACHARANAMBATI/Rag_pdf)
-**Gemini | Qdrant | LangChain**  
-Conversational AI that understands PDF documents with semantic search and MMR retrieval.
-
-```bash
-🚀 Tech Stack:
-- Vector embeddings with Qdrant
-- Context-aware responses
-- Multi-page PDF processing
-```
-
-### 3. 💬 [Natural Language to SQL Query App](https://github.com/JAYACHARANAMBATI/GENAI_SQL)
-**Gemini LLM | MySQL | SQLAlchemy**  
-Transform natural language questions into executable SQL queries with zero coding required.
-
 
 
 ## 🌐 Connect With Me
