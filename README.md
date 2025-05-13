@@ -6,7 +6,7 @@ class Developer:
         self.name = "Ambati Jaya Charan"
         self.role = "AI/ML Engineer & Frontend developer"
         self.passion = "Building intelligent applications that solve real-world problems"
-        self.education = "B.Tech in Computer Science @ Kalasalingam Academy (CGPA: 8.01/10)"
+        self.education = "B.Tech in Computer Science @ Kalasalingam Academy of Research and development"
         self.skills = {
             "Languages": ["Python", "SQL", "Java"],
             "AI/ML": ["Generative AI", "NLP", "LangChain", "LLMs"],
