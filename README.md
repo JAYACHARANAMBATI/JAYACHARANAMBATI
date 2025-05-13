@@ -1,6 +1,3 @@
-# 🚀 AMBATI JAYA CHARAN - Portfolio
-
-
 ## 👨‍💻 About Me
 
 ```python
