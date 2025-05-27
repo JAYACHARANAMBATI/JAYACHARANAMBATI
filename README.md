@@ -11,7 +11,7 @@ class Developer:
             "Languages": ["Python", "SQL", "Java"],
             "AI/ML": ["Generative AI", "NLP", "LangChain", "LLMs"],
             "Frameworks": ["Streamlit", "Flask", "React", "Flutter"],
-            "Tools": ["Vertex AI", "Qdrant", "Power BI", "Docker"]
+            "Tools": ["Cromadb","Qdrant", "Power BI", "Docker"]
         }
         
     def build(self):
