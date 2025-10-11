@@ -4,13 +4,13 @@
 class Developer:
     def __init__(self):
         self.name = "Ambati Jaya Charan"
-        self.role = "AI/ML Engineer & Frontend developer"
+        self.role = "AI/ML Engineer"
         self.passion = "Building intelligent applications that solve real-world problems"
         self.education = "B.Tech in Computer Science @ Kalasalingam Academy of Research and development"
         self.skills = {
-            "Languages": ["Python", "SQL", "Java"],
+            "Languages": ["Python", "SQL"],
             "AI/ML": ["Generative AI", "NLP", "LangChain", "LLMs"],
-            "Frameworks": ["Streamlit", "Flask", "React", "Flutter"],
+            "Frameworks": ["Streamlit", "Flask", "React", "Selenium" ],
             "Tools": ["Cromadb","Qdrant", "Power BI", "Docker"]
         }
         
