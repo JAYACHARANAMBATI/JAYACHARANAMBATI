@@ -20,13 +20,6 @@ class Developer:
 me = Developer()
 ```
 
-## 🔥 Highlights
-
-- 🏆 **2nd Place Winner** at The ComBattle Ideathon (IEEE ComSoc KARE)
-- 🚀 **Finalist** in IEEE RAS Project Showcase 2024
-- 💡 **Open Source Lead** at KARE Open-Source Society
-- 🤖 **Research Student** at Multicore Wave (Computer Vision & Robotics)
-
 
 
 ## 🌐 Connect With Me
