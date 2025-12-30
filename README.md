@@ -29,6 +29,7 @@ me = Developer()
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jc-agent.vercel.app/) 
 
 
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "AI done right, 
+                 AI is done by me." - JC
 
 Check out my [projects collection](https://github.com/JAYACHARANAMBATI?tab=repositories) for more cool implementations!
