@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class Developer:
@@ -31,5 +31,3 @@ me = Developer()
 
 > "AI done right, 
                  AI is done by me." - JC
-
-Check out my [projects collection](https://github.com/JAYACHARANAMBATI?tab=repositories) for more cool implementations!
