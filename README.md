@@ -29,5 +29,4 @@ me = Developer()
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jc-agent.vercel.app/) 
 
 
-> "AI done right, 
-                 AI is done by me." - JC
+> "AI done right,AI is done by me." - JC
