@@ -16,7 +16,6 @@ class Developer:
         
     def build(self):
         return "Innovative solutions at the intersection of AI and software engineering"
-    
 me = Developer()
 ```
 
