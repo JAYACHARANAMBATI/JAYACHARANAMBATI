@@ -14,7 +14,7 @@
 class JayaCharan:
     role       = "AI/ML Engineer"
     education  = "B.Tech CSE @ KARE"
-    passion    = "Building intelligent apps that solve real problems"
+    passion    = "Building intelligent applications that solve real problems"
     currently  = "Crafting LLM agents & RAG systems 🔭"
     open_to    = "Collaborations, Freelance & Opportunities 🤝"
     fun_fact   = "I ship AI before breakfast ⚡"
