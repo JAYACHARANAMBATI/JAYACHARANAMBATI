@@ -31,7 +31,7 @@ class JayaCharan:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-charan-ambati-901052254/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambatijayacharan18@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jc-agent.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/JC%20Portfolio-0F0F0F?style=for-the-badge&logo=sparkles&logoColor=A78BFA)](https://jc-agent.vercel.app/)
 
 <br/>
 
