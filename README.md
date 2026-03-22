@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 ```python
 class JayaCharan:
@@ -25,7 +25,7 @@ class JayaCharan:
 
 
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <div align="center">
 
