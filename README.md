@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+AI+that+thinks+%F0%9F%A7%A0;LLMs+%C2%B7+LangChain+%C2%B7+RAG+Pipelines;Turning+ideas+into+intelligent+products+%F0%9F%9A%80;%22AI+done+right+%E2%80%94+AI+is+done+by+me.%22" />
 
 </div>
----
 
 ###  About Me
 
