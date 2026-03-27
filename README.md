@@ -15,7 +15,7 @@ class JayaCharan:
     passion    = "Building intelligent applications that solve real problems"
     currently  = "Crafting LLM agents & RAG systems "
     open_to    = "Collaborations, Freelance & Opportunities "
-    fun_fact   = "I ship AI before breakfast ⚡"
+    fun_fact   = "I ship AI before breakfast "
     quote      = "AI done right — AI is done by me."
 ```
 
